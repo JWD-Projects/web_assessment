@@ -1,0 +1,24 @@
+.car-logo {
+    height: 48px;
+    width: 100px;
+}
+
+.curved-border{
+    border-radius: 10%;
+}
+
+.form-background {
+    background-color: lightgrey;
+}
+
+.google-map {
+    width: 100%;
+    height: 100%;
+    
+}
+
+.map-wrap{
+    max-width: 350px;
+    height: 300px;
+    border: 2px solid black;
+}
